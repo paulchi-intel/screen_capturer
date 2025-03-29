@@ -58,30 +58,6 @@ python main.py
 
 Screenshots are saved in the `output` folder, organized by timestamp / 截圖儲存在 `output` 資料夾中，依時間戳記分類： 
 
-## Contributing / 貢獻指南
-
-We welcome contributions to improve this project! Here's how you can help:
-
-1. **Report Issues / 回報問題**
-   - Report bugs or suggest features through GitHub Issues
-   - 透過 GitHub Issues 回報錯誤或提出功能建議
-
-2. **Submit Pull Requests / 提交程式碼**
-   - Fork the repository / 複製專案
-   - Create a new branch / 建立新分支
-   - Make your changes / 進行修改
-   - Submit a pull request / 提交變更
-
-3. **Coding Guidelines / 程式碼準則**
-   - Follow PEP 8 style guide / 遵循 PEP 8 程式碼風格
-   - Add comments for complex logic / 為複雜邏輯加上註解
-   - Include both English and Traditional Chinese comments / 包含英文和繁體中文註解
-
-4. **Documentation / 文件**
-   - Help improve documentation / 協助改善文件
-   - Add examples / 新增使用範例
-   - Translate content / 協助翻譯
-
 ## License / 授權條款
 
 MIT License
